@@ -1,16 +1,14 @@
 # Hi there, I'm Bhavya 👋
 
 ## About Me
-I'm a Computer Science engineering student passionate about building clean, practical, and impactful software.  
-I enjoy working on full-stack development, databases, backend systems, and AI-powered applications.
+I'm a Computer Science engineering student passionate about building clean, practical, and impactful software.
 
-Currently exploring:
+I enjoy working on:
 - Full Stack Web Development
 - Backend Engineering
-- Database Design & Management
-- AI Integrations
+- Database Systems
+- AI-powered Applications
 - Cyber Security
-- Cloud & Deployment Workflows
 
 I like building projects that are:
 - useful in real-world scenarios,
@@ -35,30 +33,64 @@ I like building projects that are:
 - Flask
 - PostgreSQL
 - SQLite
-- Git & GitHub
 - Docker
+- Git & GitHub
 - Vercel
 
 ---
 
-## GitHub Stats
+## Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
+### Campus Lost & Found Management System
+A centralized platform for students to report, track, and claim lost or found items on campus.
+
+**Highlights**
+- FastAPI backend
+- PostgreSQL database integration
+- Claim verification workflow
+- Responsive UI for mobile and desktop
+- Secure and structured database design
+
+---
+
+### AI Health Analytics Dashboard
+An AI-powered health dashboard that transforms raw health data into actionable insights.
+
+**Features**
+- BMI & body fat tracking
+- Nutrition monitoring
+- Health trend visualization
+- AI-generated recommendations
+
+---
+
+### Travel Cost Estimation App
+A travel planning tool that estimates trip expenses and calculates savings timelines based on income.
+
+---
+
+## Interests
+- Backend Development
+- System Design
+- Database Optimization
+- AI Integrations
+- Responsive UI/UX
+- Open Source
+
+---
+
+## Currently Learning
+- Advanced Backend Development
+- API Architecture
+- Cloud Deployment
+- DevOps & Containerization
 
 ---
 
 ## Connect With Me
-- LinkedIn: https://www.linkedin.com/in/bhavya-arora-13b517324/
-- Portfolio: add-your-link
-- Email: bhavyaaarora.001@gmail.com
+- LinkedIn: Coming Soon
+- Portfolio Website: In Progress
 
 ---
 
-> “Build clean. Build useful. Keep learning.”
-<!---
-bhavyaa-006/bhavyaa-006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> Build clean. Build useful. Keep learning.
