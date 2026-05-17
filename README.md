@@ -58,8 +58,8 @@ I like building projects that are:
 ---
 
 ## Connect With Me
-- LinkedIn: Coming Soon
-- Portfolio Website: In Progress
+- LinkedIn: https://www.linkedin.com/in/bhavya-arora-13b517324/
+
 
 ---
 
