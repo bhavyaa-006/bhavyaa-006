@@ -39,36 +39,6 @@ I like building projects that are:
 
 ---
 
-## Featured Projects
-
-### Campus Lost & Found Management System
-A centralized platform for students to report, track, and claim lost or found items on campus.
-
-**Highlights**
-- FastAPI backend
-- PostgreSQL database integration
-- Claim verification workflow
-- Responsive UI for mobile and desktop
-- Secure and structured database design
-
----
-
-### AI Health Analytics Dashboard
-An AI-powered health dashboard that transforms raw health data into actionable insights.
-
-**Features**
-- BMI & body fat tracking
-- Nutrition monitoring
-- Health trend visualization
-- AI-generated recommendations
-
----
-
-### Travel Cost Estimation App
-A travel planning tool that estimates trip expenses and calculates savings timelines based on income.
-
----
-
 ## Interests
 - Backend Development
 - System Design
